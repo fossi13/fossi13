@@ -6,7 +6,7 @@ Full-Stack Developer, Front-End Developer ,Back-End Developer
 
 I am Full-Stack Developer with expertise in both front-end and back-end development, seeking a fullstack software developer in a Software House, Education, or Tech Industry with a hybrid working environment. Eager to contribute to innovative projects and grow within a dynamic company
 
-* 🌍  I'm based in ไทย
+* 🌍  I'm based in THAILAND
 * ✉️  You can contact me at [lizl3eth03@gmail.com](mailto:lizl3eth03@gmail.com)
 
 ### Skills
